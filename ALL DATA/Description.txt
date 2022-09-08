@@ -1,0 +1,23 @@
+MarketCap: The Ether Market Capitalization chart shows the historical breakdown of Ether daily market capitalization and average price.
+TxGrowth: The chart highlights the total number of transactions on the Ethereum blockchain with daily individual breakdown for average difficulty, estimated hash rate, average block time and size, total block and uncle block count and total new address seen.
+tokenerc-20txns: The chart shows the number of ERC20 tokens transferred daily.
+AddressCount:The chart shows the total distinct numbers of address on the Ethereum blockchain and the increase in the number of address daily.
+BlockSize: The Ethereum Average Block Size Chart indicates the historical average block size in bytes of the Ethereum blockchain.
+BlockTime: The Ethereum Average Block Time Chart shows the historical average time taken in seconds for a block to be included in the Ethereum blockchain.
+AvgGasPrice: The Ethereum Average Gas Price Chart shows the daily average gas price used of the Ethereum network.
+GasLimit: The Ethereum Average Gas Limit Chart shows the historical daily average gas limit of the Ethereum network.
+GasUsed: The Ethereum Daily Gas Used Chart shows the historical total daily gas used of the Ethereum network.
+BlockReward: The Ethereum Daily Block Rewards Chart shows the combination of total Ether supplied to the Ethereum network with reference to the Ethereum Block Count and Rewards Chart and Ethereum Uncle Count and Rewards Chart.
+BlockCountRewards: The Ethereum Block Count and Rewards Chart shows the historical number of blocks produced daily on the Ethereum network and the total block reward.
+Uncles: The Ethereum Uncle Count and Rewards Chart shows the historical number of uncle blocks produced daily on the Ethereum network and the total uncle block reward.
+DailyActiveEthAddress:The Active Ethereum Address chart shows the daily number of unique addresses that were active on the network as a sender or receiver.
+DailyActiveERC20Address: The ERC20 Address chart shows the daily number of unique addresses that were active on the network as a ERC20 token sender or receiver.
+AverageDailyTransactionFee: The chart shows the daily average amount in USD spent per transaction on the Ethereum network.
+NetworkHash: The Ethereum Network Hash Rate Chart shows the historical measure of the processing power of the Ethereum network.
+BlockDifficulty: The Ethereum Network Difficulty Chart displays the mining difficulty and the historical value of the Ethereum network.
+PendingQueue: The Ethereum Network Pending Transactions Chart shows the daily pending transaction count per minute for the Ethereum network.
+TransactionFee: The Ethereum Network Transaction Fee Chart shows historical total number of Ether paid as transaction fee for the Ethereum network.
+NetworkUtilization: The Ethereum Network Utilization Chart shows the average gas used over the gas limit in percentage.
+EnsRegistrations: The Ethereum ENS Registration Chart shows the number of daily registration of the Ethereum Name Service.
+verified-contracts: The chart shows the total number of contracts verified daily. Check out the 500 most recent verified contracts!
+EtherPrice: The Ether Daily Price (USD) chart shows the daily historical price for Ether in USD.
