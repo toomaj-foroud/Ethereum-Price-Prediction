@@ -6,4 +6,4 @@ Cryptocurrencies are innovative payment systems that operate mostly based on dec
 In this research we are going to investigate Ether market, the cryptocurrency built on the open source network of Ethereum, with the second highest market capitalization and one of the most promising cryptocurrencies. The main aim is to obtain a comprehensive model which is able to explain the current market movements and to forecast the future behavior of Ether price. Clearly, the expected methodology can be extended for other similar assets as well. One of the main innovations of this study is the adoption of cryptocurrency technical information, macro-economical and financial indicators and even the effects of social media on the price mechanism. Finding effective features and the way they are correlated to the price movements will be the most important issues in this study. 
 
 ##
-In this Project you can find the scripts written in jupyter notebook and also the final report of findings. 
+In this Project you can find the collected data, scripts written in jupyter notebook and also the final report of findings. 
